@@ -1,7 +1,1 @@
-youtube.com
-www.youtube.com
-m.youtube.com
-youtubei.googleapis.com
-youtube.googleapis.com
-ytimg.com
-
+||youtube.com^
